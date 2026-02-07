@@ -9,6 +9,12 @@ to manage vehicle service bookings efficiently.
 - View booking records in table format
 - MySQL database integration
 
+## Database Setup
+1. Open MySQL
+2. Run the `database.sql` file to create the database and table
+3. Update database credentials in the Python file
+
+
 ## Technologies Used
 - Python
 - Tkinter
